@@ -1,2 +1,2 @@
 # Assignment1
-This is a repository including the finished files for Assignment 1 in CSE 310
+This is a repository containing the files for a Linked List implementation and some of its operations.
